@@ -3,6 +3,7 @@ import './App.css';
 import Banner from './Banner';
 import Exhibit from './Exhibit';
 import Address from './Address';
+import PylonConnector from './PylonConnector';
 
 class App extends Component {
     render() {
